@@ -1,6 +1,6 @@
-# SDN-service_level_agreement
+# SDN-Multi-Tenants
 
-### Multi_Tenants framework:
+### Framework:
 The framework has been evaluated by the SDN emulator "Mininet": http://mininet.org/ with POX as a network operating system
 (controller): https://github.com/noxrepo/pox/ 
 <div class="container">
