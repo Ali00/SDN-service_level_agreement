@@ -1,5 +1,17 @@
 # SDN-service_level_agreement
 
+### Multi_Tenants framework:
+The framework has been evaluated by the SDN emulator "Mininet": http://mininet.org/ with POX as a network operating system
+(controller): https://github.com/noxrepo/pox/ 
+<div class="container">
+  <div class="subcontainer">
+    <figure>
+      <p align="center">
+      <img  src="https://user-images.githubusercontent.com/12594727/74967518-0e574900-5411-11ea-8218-6335b09a9400.png" width="300" height="300"/>
+      <figcaption><p align="center">Fig.1:Framework architecture</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Network topology: 
 The network is modelled as an undirected graph G(V,E), hence, we utilised the NetworkX tool, https://networkx.github.io/, (version 1.11). European Reference network (ERnet) has been used to represent the data plane topology.
