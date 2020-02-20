@@ -7,7 +7,7 @@ The framework has been evaluated by the SDN emulator "Mininet": http://mininet.o
   <div class="subcontainer">
     <figure>
       <p align="center">
-      <img  src="https://user-images.githubusercontent.com/12594727/74967518-0e574900-5411-11ea-8218-6335b09a9400.png" width="300" height="300"/>
+      <img  src="https://user-images.githubusercontent.com/12594727/74975632-45ccf200-541f-11ea-8af2-43984c4fbeae.png" width="200" height="300"/>
       <figcaption><p align="center">Fig.1:Framework architecture</figcaption>
     </figure>
   </div>
