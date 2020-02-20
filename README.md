@@ -1,5 +1,8 @@
 # SDN-service_level_agreement
 
+
+### Network topology: 
+The network is modelled as an undirected graph G(V,E), hence, we utilised the NetworkX tool, https://networkx.github.io/, (version 1.11). European Reference network (ERnet) has been used to represent the data plane topology.
  <div class="container">
   <div class="subcontainer">
     <figure>
