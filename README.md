@@ -1,8 +1,8 @@
 # SDN-Multi-Tenants
 
 ### Framework:
-The framework has been evaluated by the SDN emulator "Mininet": http://mininet.org/ with POX as a network operating system
-(controller): https://github.com/noxrepo/pox/ 
+The framework has been evaluated by the SDN emulator "Mininet", http://mininet.org/ , with POX as a network operating system
+(controller), https://github.com/noxrepo/pox/.
 <div class="container">
   <div class="subcontainer">
     <figure>
@@ -27,7 +27,7 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
 </div>
 
 ### Network traffic:
-The DistributedInternet Traffic Generator (D-ITG) is used to generate the network traffic. D-ITG is a platform capable to produce IPv4 and IPv6 traffic by accurately replicating the workload of current Internet applications. At the same time D-ITG is also a network measurement tool able to measure the most common performance metrics (e.g. throughput, delay, jitter, packet loss) at packet level. 
+The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/software/ITG/manual/, is used to generate the network traffic. D-ITG is a platform capable to produce IPv4 and IPv6 traffic by accurately replicating the workload of current Internet applications. At the same time D-ITG is also a network measurement tool able to measure the most common performance metrics (e.g. throughput, delay, jitter, packet loss) at packet level. 
 
 <div class="container">
   <div class="subcontainer">
