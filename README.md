@@ -35,7 +35,7 @@ The DistributedInternet Traffic Generator (D-ITG) is used to generate the networ
       <p align="center">
 <img  src= "https://user-images.githubusercontent.com/12594727/75080948-7f782880-5505-11ea-8c75-8fc9aaa7ed57.png"
      width="300" height="300"/>
-        <figcaption><p align="center">Fig.2: Architecture of D-ITG.</figcaption>
+        <figcaption><p align="center">Fig.2: Architecture of D-ITG</figcaption>
     </figure>
   </div>
 </div>
