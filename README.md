@@ -48,14 +48,7 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
 <img  src= "https://user-images.githubusercontent.com/12594727/75635143-a15f6280-5c0b-11ea-8f21-7fa1d77c5736.png"
      width="250" height="150"/>
         <figcaption><p align="center">Host1 </figcaption>
-    </figure>
-  </div>
-</div>
-<div class="container">
-  <div class="subcontainer">
-    <figure>
-      <p align="right">
-        <img  src= "https://user-images.githubusercontent.com/12594727/75635146-a3292600-5c0b-11ea-9b1d-d37b1e3b2133.png"
+<img  src= "https://user-images.githubusercontent.com/12594727/75635146-a3292600-5c0b-11ea-9b1d-d37b1e3b2133.png"
      width="250" height="150"/>
         <figcaption><p align="center">Host2 </figcaption>
     </figure>
@@ -63,41 +56,8 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
 </div>
 
 
-figure {
-    margin: 1em 0;
-    text-align: center;
-    background-color: #CCC;
-}
-figure > figure {
-    display: inline-block;
-    background-color: #AAA;
-}
-figure > figure > img {
-    width: 100%;
-    height: auto;
-    vertical-align: bottom;
-}
-figure > figure > figcaption {
-    float: left;
-    width: 100%;
-    background-color: #999;
-}
-figure > figure + figcaption {
-    clear: both;
-    background-color: #666;
-}
-/*
- * for testing
- */
-figure > figure:nth-child(1) {
-    width: 31%;
-}
-figure > figure:nth-child(2) {
-    width: 31%;
-}
-figure > figure:nth-child(3) {
-    width: 25%;
-}
+
+
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "SLA-Aware Routing Strategy for Multi-Tenant
 Software-Defined Networks".`
