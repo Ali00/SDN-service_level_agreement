@@ -58,6 +58,12 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
         <img  src= "https://user-images.githubusercontent.com/12594727/75635146-a3292600-5c0b-11ea-9b1d-d37b1e3b2133.png"
      width="250" height="150"/>
         <figcaption><p align="center">Host2 </figcaption>
+        <div class="subcontainer">
+    <figure>
+      <p align="right">
+        <img  src= "https://user-images.githubusercontent.com/12594727/75635146-a3292600-5c0b-11ea-9b1d-d37b1e3b2133.png"
+     width="250" height="150"/>
+        <figcaption><p align="center">Host2 </figcaption>
     </figure>
   </div>
 </div>
