@@ -70,7 +70,7 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
      <img  src= "https://user-images.githubusercontent.com/12594727/75635942-441adf80-5c12-11ea-96b0-09c0ff0a7b44.jpg"
      width="300" height="200"/>
         <figcaption><p align="center">Wireshark view showing the flow of packets recorded via hosts from
-0􀀀5000 seconds (x-axis). Hosts H1 to H6 to represent the gold tenants and
+0-5000 seconds (x-axis). Hosts H1 to H6 to represent the gold tenants and
 the hosts H7 to H12 represent the bronze tenants. In addition, blue indicates
 sender hosts and red indicates receiver. Hosts H1 to H6 (rows 1 and 2) exhibit
 lower packet loss as there a fewer dips in this throughput (y-axis) during the
