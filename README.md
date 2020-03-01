@@ -45,7 +45,7 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
   <div class="subcontainer">
     <figure>
       <p align="center">
-<img  src= "https://github.com/Ali00/SDN-Multi-Tenants/files/4272645/H1.pdf"
+<img  src= "https://github.com/Ali00/SDN-Multi-Tenants/files/4272645/H1"
      width="250" height="150"/>
         <figcaption><p align="center">Host1 </figcaption>
     </figure>
