@@ -8,7 +8,9 @@ The framework has been evaluated by the SDN emulator "Mininet", http://mininet.o
     <figure>
       <p align="center">
       <img  src="https://user-images.githubusercontent.com/12594727/74975632-45ccf200-541f-11ea-8af2-43984c4fbeae.png" width="200" height="300"/>
-      <figcaption><p align="center">Fig.1:Framework architecture</figcaption>
+      <figcaption><p align="center">Fig.1: Architecture of the proposed framework and its components: the
+primary contribution of this paper is on the SLA blocks. Openflow is used on
+the southbound interface and POX APIs are used on the northbound interface.</figcaption>
     </figure>
   </div>
 </div>
@@ -21,7 +23,7 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
       <p align="center">
 <img  src= "https://user-images.githubusercontent.com/12594727/74964248-0ac0c380-540b-11ea-9190-3b1eef2d3716.png"
      width="500" height="400"/>
-        <figcaption><p align="center">Fig.2:The European reference network topology (ERnet) with 12 hosts.
+        <figcaption><p align="center">Fig.2: The European reference network topology (ERnet) with 12 hosts.
 The added hosts are classified into two SLA categories: Gold and Bronze. The gold hosts have the IPs from 10.0.0.1 to 10.0.0.6, while, the IP of bronze hosts start from 10.0.0.7 to 10.0.0.12.</figcaption>
     </figure>
   </div>
