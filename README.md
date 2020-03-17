@@ -38,7 +38,7 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
       <p align="center">
 <img  src= "https://user-images.githubusercontent.com/12594727/75080948-7f782880-5505-11ea-8c75-8fc9aaa7ed57.png"
      width="300" height="250"/>
-        <figcaption><p align="center">Fig.3: Architecture of D-ITG</figcaption>
+        <figcaption><p align="center">Fig.3: Architecture of  <a href="http://traffic.comics.unina.it/software/ITG/manual/">D-ITG</a> </figcaption>
     </figure>
   </div>
 </div>
