@@ -21,7 +21,8 @@ The network is modelled as an undirected graph G(V,E), hence, we utilised the Ne
       <p align="center">
 <img  src= "https://user-images.githubusercontent.com/12594727/74964248-0ac0c380-540b-11ea-9190-3b1eef2d3716.png"
      width="500" height="400"/>
-        <figcaption><p align="center">Fig.2:ERnet Topology layout with 12-attached hosts</figcaption>
+        <figcaption><p align="center">Fig.2:The European reference network topology (ERnet) with 12 hosts.
+The added hosts are classified into two SLA categories: Gold and Bronze. The gold hosts have the IPs from 10.0.0.1 to 10.0.0.6, while, the IP of bronze hosts start from 10.0.0.7 to 10.0.0.12.</figcaption>
     </figure>
   </div>
 </div>
@@ -35,7 +36,7 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
       <p align="center">
 <img  src= "https://user-images.githubusercontent.com/12594727/75080948-7f782880-5505-11ea-8c75-8fc9aaa7ed57.png"
      width="300" height="250"/>
-        <figcaption><p align="center">Fig.2: Architecture of D-ITG</figcaption>
+        <figcaption><p align="center">Fig.3: Architecture of D-ITG</figcaption>
     </figure>
   </div>
 </div>
@@ -69,7 +70,7 @@ The DistributedInternet Traffic Generator (D-ITG), http://www.grid.unina.it/soft
      width="300" height="200"/>
      <img  src= "https://user-images.githubusercontent.com/12594727/75635942-441adf80-5c12-11ea-96b0-09c0ff0a7b44.jpg"
      width="300" height="200"/>
-        <figcaption><p align="center">Wireshark view showing the flow of packets recorded via hosts from
+        <figcaption><p align="center">Fig.4: Wireshark view showing the flow of packets recorded via hosts from
 0-5000 seconds (x-axis). Hosts H1 to H6 to represent the gold tenants and
 the hosts H7 to H12 represent the bronze tenants. In addition, blue indicates
 sender hosts and red indicates receiver. Hosts H1 to H6 (rows 1 and 2) exhibit
