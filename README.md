@@ -87,4 +87,4 @@ experiment run. </figcaption>
 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "SLA-Aware Routing Strategy for Multi-Tenant
-Software-Defined Networks".`
+Software-Defined Networks".IEEE ISCC 2020 (to appear)`
