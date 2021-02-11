@@ -86,4 +86,4 @@ experiment run. </figcaption>
 
 
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "Malik, A., & de Fréin, R. (2020, July). SLA-Aware Routing Strategy for Multi-Tenant Software-Defined Networks. In 2020 IEEE Symposium on Computers and Communications (ISCC) (pp. 1-7). IEEE."
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `If you use this framework or any of its code in your work then, please cite the following publication: "Malik, A., & de Fréin, R. (2020, July). SLA-Aware Routing Strategy for Multi-Tenant Software-Defined Networks. In 2020 IEEE Symposium on Computers and Communications (ISCC) (pp. 1-7). IEEE." `
